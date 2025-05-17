@@ -5,8 +5,6 @@ Chennai Institute of Technology
 
 ---
 
----
-
 ## 🛠️ Skills
 
 - **Programming Languages:** Java, Python, C, JavaScript, HTML, CSS  
